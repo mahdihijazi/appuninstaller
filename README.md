@@ -11,7 +11,7 @@ The app will contains a lot of features that we are going to expose later, but t
 - Build teamwork skills and let the developers collaborate with each other using some of the great tools like Git, Github and Trello.
 - Apply the best practices in the Android development.
 - Learn to solve some of the new challenges that some of us didn't face it before during his/her work.
-- If the app was succesfful and we were able to montize it, we will be copntributing sales profits to any charitable organization, thus we can all be proud of this beatiful experince.
+- If the app was succesfful and we were able to montize it, we will be copntributing sales profits to any charitable organization, thus we can all be proud of this beautiful experince.
 
 # Features 
 - List all removable apps with the ability to sort them per name, size and installation date.
